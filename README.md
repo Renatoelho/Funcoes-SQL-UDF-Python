@@ -1,4 +1,4 @@
-# Criando Funções UDF no DuckDB com Python
+# Criando Funções SQL (UDF) no DuckDB com Python
 
 Este repositório demonstra como criar e utilizar ***Funções Definidas pelo Usuário*** (UDF) no ***DuckDB*** usando ***Python***. As UDFs permitem estender a funcionalidade SQL padrão, permitindo que você escreva funções personalizadas em Python e as utilize diretamente nas suas consultas SQL no DuckDB. Isso é particularmente útil para realizar operações complexas de manipulação de dados que não são facilmente alcançadas com o ***SQL*** padrão. Por exemplo, criamos uma UDF simples que verifica se o dígito verificador (DV) de um ***CPF*** é composto apenas por números. Este exemplo ilustra o potencial das UDFs para realizar ***operações complexas*** de manipulação de dados diretamente no DuckDB, permitindo soluções avançadas e personalizadas para diversas necessidades de processamento.
 
