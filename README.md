@@ -4,13 +4,12 @@ Este repositório demonstra como criar e utilizar ***Funções Definidas pelo Us
 
 <!--
 https://www.youtube.com/@renato-coelho
-https://youtu.be/xxxxxxxx
 -->
 
 # Apresentação em vídeo
 
 <p align="center">
-  <a href="https://www.youtube.com/@renato-coelho" target="_blank"><img src="thumbnail/Funcoes-SQL-UDF-Python.png" alt="Vídeo de apresentação"></a>
+  <a href="https://youtu.be/FwYVfnteAO8" target="_blank"><img src="thumbnail/Funcoes-SQL-UDF-Python.png" alt="Vídeo de apresentação"></a>
 </p>
 
 
